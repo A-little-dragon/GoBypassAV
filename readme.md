@@ -38,10 +38,10 @@ cmd /c go env -w GOARCH=amd64
 
 ## 程序截图
 
-![image-20240415222010770](C:\Users\WU262\AppData\Roaming\Typora\typora-user-images\image-20240415222010770.png)
+![image-20240415222010770](image-20240415222010770.png)
 
-![image-20240415222142792](C:\Users\WU262\AppData\Roaming\Typora\typora-user-images\image-20240415222142792.png)
+![image-20240415222142792](image-20240415222142792.png)
 
 ## 附美女照片
 
-![https://pic.netbian.com/uploads/allimg/240117/003804-1705423084b017.jpg](https://pic.netbian.com/uploads/allimg/240117/003804-1705423084b017.jpg)
+![https://pic.netbian.com/uploads/allimg/240117/003804-1705423084b017.jpg](003804-1705423084b017.jpg)
