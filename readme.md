@@ -50,6 +50,10 @@ cmd /c go env -w GOARCH=amd64
 
 ![image-20240415222142792](image/image-20240415222142792.png)
 
+## Star History
+
+![Star History](https://star-history.com/#A-little-dragon/GoBypassAV&Date)
+
 ## 附美女照片
 
 ![https://pic.netbian.com/uploads/allimg/240117/003804-1705423084b017.jpg](image/003804-1705423084b017.jpg)
