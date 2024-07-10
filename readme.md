@@ -52,7 +52,7 @@ cmd /c go env -w GOARCH=amd64
 
 ## Star History
 
-[https://star-history.com/#A-little-dragon/GoBypassAV&Date](https://star-history.com/#A-little-dragon/GoBypassAV&Date)
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#A-little-dragon/GoBypassAV&Date" frameBorder="0"></iframe>
 
 ## 附美女照片
 
